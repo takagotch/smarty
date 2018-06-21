@@ -1,4 +1,4 @@
-## smarty
+### smarty
 ---
 https://www.smarty.net/
 
